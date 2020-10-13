@@ -26,3 +26,18 @@ For the assignment I created a Python script that analyzes the records to calcul
  - The greatest decrease in losses (date and amount) over the entire period.
 
 ## PyPoll
+
+In this challenge, I am tasked with helping a small, rural town modernize its vote-counting process.
+
+I will be given a set of poll data with three columns: `Voter Id`, `County` and `Candidate`.  My task is to create a Python script that analyzes the votes and calculates each of the following:
+
+ - The total number of votes cast
+
+ - A complete list of candidates who received votes
+
+ - The percentage of votes each candidate won.
+
+ - The total number of votes each candidate won
+
+ - The winner of the election based on the popular vote.
+
