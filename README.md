@@ -10,6 +10,8 @@ Both of these challenges encompasses a real-world situtation where my newfound P
 
 ## PyBank
 
+### Instructions
+
 In this challenge, I am tased to create a Python script for analyzig the financial records of my company.
 I am given a set of financial data with two columns: `Date` and `Profit/Losses`.
 
@@ -24,6 +26,20 @@ For the assignment I created a Python script that analyzes the records to calcul
  - The greatest increase in profits (date and amount) over the entire period.
 
  - The greatest decrease in losses (date and amount) over the entire period.
+
+### Results
+
+Here are the results that I found:
+
+```text
+Financial Analysis
+ ----------------------------
+Total Months: 86
+Total Revenue: $38,382,578.00
+Average Revenue Change: $-2,315.12
+Greatest Increase in Profits: Feb-2012 $1,926,159.00
+Greatest Decrease in Profits: Sep-2013 $-2,196,167.00
+```
 
 ## PyPoll
 
