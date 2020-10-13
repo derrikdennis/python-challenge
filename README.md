@@ -1,5 +1,12 @@
-# Py Me Up, Charlie - A Python Challenge
+# Py Me Up, Charlie - A Python Challenge <!-- omit in toc -->
 
+- [Background](#background)
+- [PyBank](#pybank)
+  - [Instructions](#instructions)
+  - [Results](#results)
+- [PyPoll](#pypoll)
+  - [Instructions](#instructions-1)
+  - [Results](#results-1)
 
 
 ## Background
