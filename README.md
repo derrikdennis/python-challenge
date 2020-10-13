@@ -43,6 +43,8 @@ Greatest Decrease in Profits: Sep-2013 $-2,196,167.00
 
 ## PyPoll
 
+### Instructions
+
 In this challenge, I am tasked with helping a small, rural town modernize its vote-counting process.
 
 I will be given a set of poll data with three columns: `Voter Id`, `County` and `Candidate`.  My task is to create a Python script that analyzes the votes and calculates each of the following:
@@ -56,4 +58,22 @@ I will be given a set of poll data with three columns: `Voter Id`, `County` and 
  - The total number of votes each candidate won
 
  - The winner of the election based on the popular vote.
+
+### Results
+
+Here are the results that I found:
+
+```text
+Election Results
+-------------------------
+Total Votes: 3,521,001
+-------------------------
+Khan: 63.000% (2,218,231)
+Correy: 20.000% (704,200)
+Li: 14.000% (492,940)
+O'Tooley: 3.000% (105,630)
+-------------------------
+Winner:  Khan
+-------------------------
+```
 
