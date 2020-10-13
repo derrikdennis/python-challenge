@@ -1,5 +1,6 @@
 # Py Me Up, Charlie - A Python Challenge <!-- omit in toc -->
 
+## Table of contents <!-- omit in toc -->
 - [Background](#background)
 - [PyBank](#pybank)
   - [Instructions](#instructions)
